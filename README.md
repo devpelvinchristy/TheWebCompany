@@ -16,3 +16,10 @@ php artisan key:generate
 And Migrate with
 
 php artisan migrate
+
+
+
+For API:
+
+localhost/api/getProducts
+
